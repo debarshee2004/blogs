@@ -8,11 +8,11 @@ The Smart India Hackathon (SIH) is more than just a competition; it's a nationwi
 
 ## The Genesis of the Idea
 
-Our team's journey began with brainstorming sessions, heated discussions, and a shared passion for making a positive impact. We were eager to contribute our skills towards solving a problem that mattered, and after careful consideration, we zeroed in on the challenge of optimizing street parking. With the increasing urbanization, parking has become a ubiquitous issue, and we believed that AI and ML could be the game-changer.
+Our team's journey began with brainstorming sessions, heated discussions, and a shared passion for making a positive impact. Lead by Promit we were eager to contribute our skills towards solving a problem that mattered, and after careful consideration, we zeroed in on the challenge of optimizing street parking. With the increasing urbanization, parking has become a ubiquitous issue, and we believed that AI and ML could be the game-changer.
 
 ## Diving into Development
 
-Once the idea was solidified, the real work began. Late-night coding sessions, endless cups of coffee, and a collaborative spirit defined our days. We leveraged our diverse skills, with each team member bringing a unique expertise to the table. From data collection and model training to app development, our roles intertwined seamlessly.
+Once the idea was solidified, the real work began. Late-night coding sessions, endless cups of coffee, and a collaborative spirit defined our days. We leveraged our diverse skills, with each team member bringing a unique expertise to the table. From data collection and model training to app development, our roles intertwined seamlessly. Shivaditya single handedly made out mobile app with the design which Sneha came with.
 
 ## Challenges Faced and Lessons Learned
 
@@ -20,7 +20,7 @@ The journey was not without its challenges. We encountered roadblocks, faced set
 
 ## The Thrill of the Hackathon
 
-As the hackathon deadline approached, the excitement reached a crescendo. We fine-tuned our project, prepared a compelling presentation, and anxiously awaited the opportunity to showcase our solution. The virtual platform of SIH connected us with mentors and experts, offering valuable feedback that helped refine our project further.
+As the hackathon deadline approached, the excitement reached a crescendo. We fine-tuned our project, prepared a compelling presentation, and anxiously awaited the opportunity to showcase our solution. The virtual platform of SIH connected us with mentors and experts, offering valuable feedback that helped refine our project further, but there was a problem the model was no were near 100 percent accuracy the dataset was not big enough.
 
 ## Team Spirit and Camaraderie
 
@@ -28,7 +28,9 @@ One of the most rewarding aspects of the SIH experience was the camaraderie amon
 
 ## Presenting Our Solution
 
-The moment arrived when we presented our AI and ML-driven street parking solution to a panel of judges. The culmination of months of hard work and dedication was encapsulated in those minutes. The nerves were palpable, but our belief in the potential impact of our project fueled our presentation.
+The moment arrived when we presented our AI and ML-driven street parking solution to a panel of judges. The presentations were delivered by our lead Promit. The culmination of months of hard work and dedication was encapsulated in those minutes. The nerves were palpable, but our belief in the potential impact of our project fueled our presentation. 
+
+Because of Promit's presentation, we were able to easily pass the college's first round of selection and even win on the last day of selection.
 
 ## Beyond the Hackathon
 
