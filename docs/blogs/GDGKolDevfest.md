@@ -28,9 +28,9 @@ The standout sessions by Aryan Irani, Pawan Kumar, Saaket Tharad, Sayak Paul, Hr
 
 [![dev](../assets/images/dev02.jpg)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_gdgkolkata-devfest2023-techinnovation-activity-7144115218619506688-HHvE?utm_source=share&utm_medium=member_desktop)
 
-## Meeting Strider - A Highlight!
+## Meeting Striver - A Highlight!
 
-A special highlight for me was getting the chance to meet Raj Vikramaditya, AKA Strider 🎖. Connecting with industry leaders adds a unique flavor to such events and provides valuable insights into the real-world applications of technology.
+A special highlight for me was getting the chance to meet Raj Vikramaditya, AKA Striver 🎖. Connecting with industry leaders adds a unique flavor to such events and provides valuable insights into the real-world applications of technology.
 
 ## Hands-on Workshops: A Game-Changer
 

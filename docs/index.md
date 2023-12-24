@@ -6,9 +6,9 @@ hero:
   name: "Debarshee`s Insightful Nook"
   text: "Journey into Wisdom and Wonder"
   tagline: Explore the world through Debarshee's eyes as he shares thoughts, experiences, and knowledge on a variety of topics. From personal reflections to in-depth explorations, this blog is your gateway to a diverse range of perspectives.
-  image: 
-    src: /assets/images/hero.png
-    alt: Hero
+  # image: 
+  #   src: hero.png
+  #   alt: Hero
   actions:
     - theme: brand
       text: Get Started
