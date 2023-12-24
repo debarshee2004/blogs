@@ -17,16 +17,16 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Blogs',
-        collapsed: true,
+        collapsed: false,
         items: [
           { text: 'GDGKol Devfest 2023', link: '/blogs/GDGKolDevfest.md' },
           { text: 'Smart India Hackathon', link: '/blogs/SIH.md' },
-          { text: 'InterHacktive', link: '/blogs/InterHacktive.md'},
-          { text: 'Symposium', link: '/blogs/Symposium.md'},
-          { text: 'September Developers Meet', link: '/blogs/SeptemberDevelopersMeet.md'},
-          { text: 'EduHub Roadshow', link: '/blogs/EduhubRoadshow.md'},
-          { text: 'GC Community Day', link: '/blogs/GCCommunityDay.md'},
-          { text: 'Technocruise', link: '/blogs/Technocruise.md'}
+          // { text: 'InterHacktive', link: '/blogs/InterHacktive.md'},
+          // { text: 'Symposium', link: '/blogs/Symposium.md'},
+          // { text: 'September Developers Meet', link: '/blogs/SeptemberDevelopersMeet.md'},
+          // { text: 'EduHub Roadshow', link: '/blogs/EduhubRoadshow.md'},
+          // { text: 'GC Community Day', link: '/blogs/GCCommunityDay.md'},
+          // { text: 'Technocruise', link: '/blogs/Technocruise.md'}
         ]
       },
       {
@@ -46,7 +46,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/debarshee2004/blogs' },
+      { icon: 'github', link: 'https://github.com/debarshee2004' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/debarshee-chakraborty-a88b47266/'}
     ],
 
