@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Debarshee`s Insightful Nook",
   description: "Journey into Wisdom and Wonder",
+  head: [['link', { rel: 'icon', href: '/docs/assets/icons/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -4,9 +4,9 @@
 
 ![dev](../assets/images/dev.png)
 
-    Date: 22nd December 2023.
+***Date: 22nd December 2023.***
 
-    Venue: Dhono Dhanyo Auditorium, Thackeray Road, Kolkata, 700027.
+***Venue: Dhono Dhanyo Auditorium, Thackeray Road, Kolkata, 700027.***
 
 ## What is a GDG Devfest?
 
@@ -14,7 +14,7 @@ DevFest is a global tech conference hosted by the Google Developer Groups (GDG) 
 
 [![dev](../assets/images/dev00.png)](https://www.linkedin.com/pulse/google-devfest-everything-you-need-know-akavatech-mnmdf/)
 
-    Pic: Locations of Devfest all around the world.
+***Pic: Locations of Devfest all around the world.***
 
 Hey Devfest enthusiasts! 👋 I hope this post finds you as exhilarated as I am after an amazing weekend at GDG Kolkata Devfest 2023. Let me take you through the highlights of this mind-blowing tech extravaganza that left me buzzing with inspiration! ✨
 
@@ -27,6 +27,8 @@ The day started with an electrifying keynote that set the tone for the entire ev
 The standout sessions by Aryan Irani, Pawan Kumar, Saaket Tharad, Sayak Paul, Hrittik Roy, and many others were nothing short of extraordinary. They delved into diverse topics like Generative AI, Startups, Entrepreneurship, Marketing, and Sales. The speakers not only unraveled complexities but also shared practical tips for implementation. My mind was officially blown! 🤯
 
 [![dev](../assets/images/dev02.jpg)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_gdgkolkata-devfest2023-techinnovation-activity-7144115218619506688-HHvE?utm_source=share&utm_medium=member_desktop)
+
+***Pic: Live Session with Striver.***
 
 ## Meeting Striver - A Highlight!
 
@@ -45,6 +47,8 @@ The GDG Kolkata community knows how to make learning fun, and the networking opp
 No tech event is complete without some swag, and the GDG Kolkata team did not disappoint. Rocking my new Devfest Shirt as a badge of honor! 😎👾
 
 [![dev](../assets/images/dev01.jpg)](https://www.instagram.com/p/C1KYnsoJcQJ5H7iMPaPRyfbzDRf7E2aYRilrxE0/?img_index=1)
+
+***Pic: Me with [Ayushi Srivastava](https://www.linkedin.com/in/ayushi-srivastava-511914234/) and [Aryan Irani](https://www.linkedin.com/in/aryan-irani-41b2971a9/).***
 
 ## Shoutout to the Organizers, Volunteers, and Sponsors
 

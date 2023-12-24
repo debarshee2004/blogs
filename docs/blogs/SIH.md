@@ -2,7 +2,7 @@
 
 [![sih](../assets/images/sih.png)](https://www.sih.gov.in/)
 
-    Date: September 2023
+***Date: September 2023***
 
 The Smart India Hackathon (SIH) is more than just a competition; it's a nationwide initiative by the innovation cell of the Ministry of Education that opens doors for students to tackle real-world challenges faced by the government, ministries, departments, industries, and other organizations. This year, my friends and I embarked on a thrilling journey in the hackathon, where we aimed to revolutionize street parking using the power of Artificial Intelligence (AI) and Machine Learning (ML).
 
@@ -38,6 +38,9 @@ While we were not selected to the national level, the experience itself has been
 
 [![sih](../assets/images/sih01.jpg)]()
 
+***Team: CODEVENGERS*** 
+
+**Lead: [Promit Chaudhuri](https://github.com/ProSkywalker16)** <br/>
 **Concept:** [Promit Chaudhuri](https://github.com/ProSkywalker16) and [Subhadip Santra](https://github.com/Subhadip05Santra) <br/>
 **Design & UI/UX:** [Debarshee Chakraborty](https://github.com/debarshee2004), [Promit Chaudhuri](https://github.com/ProSkywalker16) and [Sneha Chakraborty](https://github.com/SnehaChakraborty-007) <br/>
 **Frontend:** [Shivaditya Bhattacharya](https://github.com/RichPerspective007) and [Promit Chaudhuri](https://github.com/ProSkywalker16) <br/>
@@ -47,6 +50,10 @@ While we were not selected to the national level, the experience itself has been
 **Documentation:** [Debarshee Chakraborty](https://github.com/debarshee2004) and [Promit Chaudhuri](https://github.com/ProSkywalker16)
 
 ## Our Project
+
+![logo](../assets/images/parkkaroapp.png)
+
+***Pic: Team Codevenger's Banner***
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debarshee2004/parkkaroapp)
 
