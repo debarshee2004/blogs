@@ -25,7 +25,7 @@ export default defineConfig({
           // { text: 'InterHacktive', link: '/blogs/InterHacktive.md'},
           // { text: 'Symposium', link: '/blogs/Symposium.md'},
           // { text: 'September Developers Meet', link: '/blogs/SeptemberDevelopersMeet.md'},
-          // { text: 'EduHub Roadshow', link: '/blogs/EduhubRoadshow.md'},
+          { text: 'EduHub Roadshow', link: '/blogs/EduhubRoadshow.md'},
           // { text: 'GC Community Day', link: '/blogs/GCCommunityDay.md'},
           // { text: 'Technocruise', link: '/blogs/Technocruise.md'}
         ]
