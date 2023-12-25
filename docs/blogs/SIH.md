@@ -61,6 +61,10 @@ While we were not selected to the national level, the experience itself has been
 
 The Smart India Hackathon was more than a competition; it was a transformative experience that showcased the power of collaboration, innovation, and the indomitable spirit of the youth. As we eagerly await the results, we know that our journey doesn't end here. It's a stepping stone to future endeavors where technology meets social impact. The hackathon was not just about solving problems; it was about shaping a future where innovation thrives and challenges are met with ingenuity.
 
+## Learning 📚
+
+I learned a great deal, and this is when my passion for Artificial Intelligence and Machine Learning began. I had the chance to learn a lot about management, effective teamwork, and bug fixing while working with this team. A significant component of teamwork is imparting knowledge and learning from others. Even though Shivaditya was the event's MVP, nothing would have been possible without everyone's help.
+
 ## LinkedIn Post
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_smartindiahackathon2023-innovation-ai-activity-7144691167174008832-F7g9?utm_source=share&utm_medium=member_desktop)
