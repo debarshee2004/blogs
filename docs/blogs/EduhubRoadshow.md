@@ -35,3 +35,7 @@ As we step into the future of technology, innovation, and collaborative learning
 In conclusion, the Web3 Roadshow in Kolkata was more than just an event; it was a transformative experience that offered a glimpse into the future of technology. My heartfelt thanks to everyone involved in making this opportunity possible. Here's to the continued growth of technology and the collaborative spirit that drives it forward!
 
 *Stay connected, stay innovative!* 🌐✨
+
+## LinkedIn Post
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_connections-web3community-webdevelopment-activity-7144866057323724800-_qrg?utm_source=share&utm_medium=member_desktop)
