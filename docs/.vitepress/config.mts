@@ -26,11 +26,9 @@ export default defineConfig({
         items: [
           { text: 'GDGKol Devfest 2023', link: '/blogs/GDGKolDevfest.md' },
           { text: 'Smart India Hackathon', link: '/blogs/SIH.md' },
-          // { text: 'InterHacktive', link: '/blogs/InterHacktive.md'},
-          // { text: 'Symposium', link: '/blogs/Symposium.md'},
-          // { text: 'September Developers Meet', link: '/blogs/SeptemberDevelopersMeet.md'},
+          { text: 'September Developers Meet', link: '/blogs/SeptemberDevelopersMeet.md'},
           { text: 'EduHub Roadshow', link: '/blogs/EduhubRoadshow.md'},
-          // { text: 'GC Community Day', link: '/blogs/GCCommunityDay.md'},
+          // { text: 'Cloud Community Day', link: '/blogs/GCCommunityDay.md'},
           // { text: 'Technocruise', link: '/blogs/Technocruise.md'}
         ]
       },

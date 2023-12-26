@@ -1,4 +1,6 @@
-# Unveiling the Future: Eduhub Community's Web3 Roadshow in Kolkata
+# Unveiling the Future: Eduhub Community's Web3 Roadshow in Kolkata 🌐💻
+
+---
 
 ![edu](../assets/images/edu.jpg)
 
@@ -20,7 +22,7 @@ The roadshow commenced with an immersive exploration of Web3 and cryptocurrency.
 
 ## **Networking Extravaganza**
 
-Beyond the informative sessions, the event provided an excellent platform for networking. Attendees had the opportunity to connect with like-minded individuals from Eduhub Community and engage with fellow students from SNU (Shiv Nadar University). The exchange of ideas and experiences during these interactions added an extra layer of depth to the entire experience.
+Beyond the informative sessions, the event provided an excellent platform for networking. Attendees had the opportunity to connect with like-minded individuals from Eduhub Community and engage with fellow students from SNU (Sister Nivedita University). The exchange of ideas and experiences during these interactions added an extra layer of depth to the entire experience.
 
 ## **A Heartfelt Thank You**
 

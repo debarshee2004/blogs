@@ -1,4 +1,6 @@
-# Hacking Solutions: A Journey Through Smart India Hackathon
+# Hacking Solutions: A Journey Through Smart India Hackathon 👨‍🔬💻
+
+---
 
 [![sih](../assets/images/sih.png)](https://www.sih.gov.in/)
 
@@ -36,7 +38,7 @@ Because of Promit's presentation, we were able to easily pass the college's firs
 
 While we were not selected to the national level, the experience itself has been a victory. The SIH journey not only equipped us with technical skills but also honed our teamwork, problem-solving abilities, and resilience. We're proud of what we've achieved and excited about the potential our solution holds for addressing real-world challenges.
 
-## Our Team👷‍♂️
+## Our Team
 
 [![sih](../assets/images/sih01.jpg)]()
 
@@ -61,7 +63,7 @@ While we were not selected to the national level, the experience itself has been
 
 The Smart India Hackathon was more than a competition; it was a transformative experience that showcased the power of collaboration, innovation, and the indomitable spirit of the youth. As we eagerly await the results, we know that our journey doesn't end here. It's a stepping stone to future endeavors where technology meets social impact. The hackathon was not just about solving problems; it was about shaping a future where innovation thrives and challenges are met with ingenuity.
 
-## Learning 📚
+## Learning 
 
 I learned a great deal, and this is when my passion for Artificial Intelligence and Machine Learning began. I had the chance to learn a lot about management, effective teamwork, and bug fixing while working with this team. A significant component of teamwork is imparting knowledge and learning from others. Even though Shivaditya was the event's MVP, nothing would have been possible without everyone's help.
 

@@ -54,7 +54,7 @@ No tech event is complete without some swag, and the GDG Kolkata team did not di
 
 A massive shoutout to the organizers Indranil Dutta, Binit Kumar Mondal, Aindrila Das, volunteers (especially my college senior Prasun kr Mondal), and all the others who put their heart and soul into making this unforgettable experience possible. Your hard work and dedication to fostering the local tech community do not go unnoticed! 🙌🏽👏🏽
 
-## Learning 📚
+## Learning 
 
 I was able to learn a great deal about the newest generation of artificial intelligence, generative AI, and what it takes to launch a profitable business and pursue entrepreneurship. Additionally, we learned about some of Google's newest technologies and how they will facilitate quicker and more effective development work.
 
