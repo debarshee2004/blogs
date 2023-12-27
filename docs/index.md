@@ -31,4 +31,3 @@ features:
     title: Projects
     details: Explore hands-on projects that Debarshee is working on or has completed. From coding experiments to creative endeavors, this section showcases practical applications of knowledge and skills discussed throughout the blog. Learn, be inspired, and perhaps even contribute to ongoing projects.
 ---
-
