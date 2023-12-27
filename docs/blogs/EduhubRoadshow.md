@@ -12,15 +12,15 @@
 
 Eduhub Community, a trailblazer in fostering collaborative learning environments, brought its visionary "Unveiling the Future: Web3, Web Development, and Open-Source College Roadshow" to Kolkata, West Bengal, on Monday, September 11th. This event was a testament to Eduhub's commitment to providing a platform for individuals to explore and understand the future landscape of technology.
 
-![edu](../assets/images/edu01.jpg)
-
-***Pic: Me with the founder of EduHub Community [Priya Chandak](https://www.linkedin.com/in/priya-chandak-ba0a6b178/) and my friend [Anjishnu Ganguly](https://www.linkedin.com/in/anjishnu-ganguly-722046284/)***
-
 ## **Learning the Ropes of Web3 and Crypto**
 
 The roadshow commenced with an immersive exploration of Web3 and cryptocurrency. Seasoned industry experts took center stage, demystifying the complexities of these cutting-edge technologies. As a participant, the wealth of knowledge gained during these sessions provided invaluable insights into the ever-evolving realm of web development.
 
 ## **Networking Extravaganza**
+
+![edu](../assets/images/edu01.jpg)
+
+***Pic: Me with the founder of EduHub Community [Priya Chandak](https://www.linkedin.com/in/priya-chandak-ba0a6b178/) and my friend [Anjishnu Ganguly](https://www.linkedin.com/in/anjishnu-ganguly-722046284/)***
 
 Beyond the informative sessions, the event provided an excellent platform for networking. Attendees had the opportunity to connect with like-minded individuals from Eduhub Community and engage with fellow students from SNU (Sister Nivedita University). The exchange of ideas and experiences during these interactions added an extra layer of depth to the entire experience.
 

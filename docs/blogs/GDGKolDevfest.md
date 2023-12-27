@@ -26,11 +26,11 @@ The day started with an electrifying keynote that set the tone for the entire ev
 
 The standout sessions by Aryan Irani, Pawan Kumar, Saaket Tharad, Sayak Paul, Hrittik Roy, and many others were nothing short of extraordinary. They delved into diverse topics like Generative AI, Startups, Entrepreneurship, Marketing, and Sales. The speakers not only unraveled complexities but also shared practical tips for implementation. My mind was officially blown! 🤯
 
+## Meeting Striver - A Highlight!
+
 [![dev](../assets/images/dev02.jpg)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_gdgkolkata-devfest2023-techinnovation-activity-7144115218619506688-HHvE?utm_source=share&utm_medium=member_desktop)
 
 ***Pic: Live Session with Striver.***
-
-## Meeting Striver - A Highlight!
 
 A special highlight for me was getting the chance to meet Raj Vikramaditya, AKA Striver 🎖. Connecting with industry leaders adds a unique flavor to such events and provides valuable insights into the real-world applications of technology.
 
@@ -40,15 +40,15 @@ The hands-on workshops were an absolute game-changer. Kudos to the workshop faci
 
 ## Community and Networking
 
+[![dev](../assets/images/dev01.jpg)](https://www.instagram.com/p/C1KYnsoJcQJ5H7iMPaPRyfbzDRf7E2aYRilrxE0/?img_index=1)
+
+***Pic: Me with [Ayushi Srivastava](https://www.linkedin.com/in/ayushi-srivastava-511914234/) and [Aryan Irani](https://www.linkedin.com/in/aryan-irani-41b2971a9/).***
+
 The GDG Kolkata community knows how to make learning fun, and the networking opportunities were off the charts. Meeting like-minded developers, exchanging ideas, and finding potential collaborators for future projects created a sense of community that is truly unmatched. 🤝🌐
 
 ## Swag Galore
 
 No tech event is complete without some swag, and the GDG Kolkata team did not disappoint. Rocking my new Devfest Shirt as a badge of honor! 😎👾
-
-[![dev](../assets/images/dev01.jpg)](https://www.instagram.com/p/C1KYnsoJcQJ5H7iMPaPRyfbzDRf7E2aYRilrxE0/?img_index=1)
-
-***Pic: Me with [Ayushi Srivastava](https://www.linkedin.com/in/ayushi-srivastava-511914234/) and [Aryan Irani](https://www.linkedin.com/in/aryan-irani-41b2971a9/).***
 
 ## Shoutout to the Organizers, Volunteers, and Sponsors
 
@@ -67,3 +67,7 @@ See you at the next Devfest adventure! 🌐🚀✨
 ## LinkedIn Post
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/debarshee-chakraborty-a88b47266_gdgkolkata-devfest2023-techinnovation-activity-7144115218619506688-HHvE?utm_source=share&utm_medium=member_desktop)
+
+## Medium Post
+
+[	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debarsheechakraborty.11d/gdg-kolkata-devfest-2023-a-tech-extravaganza-262cafeb707b)
